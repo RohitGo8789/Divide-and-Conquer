@@ -1,4 +1,4 @@
-public class MergeSort {
+public class MergeSort{
     public static void mergeSort(int arr[], int si, int ei){
         //base case
         if(si>=ei){
